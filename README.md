@@ -18,6 +18,7 @@ A clean, fast, and fully functional **e-commerce web application** built with va
 
 ![Products Page](./screenshots/products.png)
 ![Cart Page](./screenshots/cart.png)
+
 ---
 
 ## ✨ Features
@@ -52,6 +53,8 @@ jsproject/
 │
 ├── public/
 │   └── images/                 # All product & UI images
+|
+├── screenshots
 │
 ├── main.js                     # App entry point — loads products on home page
 ├── homeProductsCards.js        # Renders product cards using <template>
