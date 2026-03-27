@@ -16,8 +16,9 @@ A clean, fast, and fully functional **e-commerce web application** built with va
 | ---------------------------- | ---------------------------- | ---------------------------- |
 | ![](./screenshots/home1.png) | ![](./screenshots/home2.png) | ![](./screenshots/home3.png) |
 
-![Products Page](./screenshots/products.png)
-![Cart Page](./screenshots/cart.png)
+| Products Page                   | Cart page                   |
+| ------------------------------- | --------------------------- |
+| ![](./screenshots/products.png) | ![](./screenshots/cart.png) |
 
 ---
 
